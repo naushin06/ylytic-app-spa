@@ -10,4 +10,4 @@ In the project directory, you can run:
 
 ## Heroku Link of App 
 
-`https://assignment-single-page-site.vercel.app/`
+`https://ylytic-app-spa.vercel.app/`
